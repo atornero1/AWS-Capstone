@@ -21,15 +21,15 @@ Instead of a static document, I engineered a serverless API that fetches profess
 
 **Step 1: Uploading local resume.json**
 
-<img width="1913" height="897" alt="Screenshot 2026-05-14 143421" src="https://github.com/user-attachments/assets/0d95b35c-321c-45e9-a620-48b3a27f7474" />
+<img width="1913" height="897" alt="Screenshot 2026-05-14 143421" src="https://github.com/user-attachments/assets/bd185b16-f526-4e1d-b0a0-1501be1162aa" />
 
 **Step 2: Verification in AWS S3 Bucket**
 
-<img width="1539" height="563" alt="Screenshot 2026-05-14 143543" src="https://github.com/user-attachments/assets/ad07d35d-2c42-49e8-b776-2fb171f749cf" />
+<img width="1539" height="563" alt="Screenshot 2026-05-14 143543" src="https://github.com/user-attachments/assets/a377de85-0c62-4b98-9733-59e5151dd595" />
 
 **Step 3: Output to S3**
 
-<img width="1082" height="740" alt="Screenshot 2026-05-14 143439" src="https://github.com/user-attachments/assets/d4bd4451-8895-46b8-bf4d-ec71f1f321ff" />
+<img width="1082" height="740" alt="Screenshot 2026-05-14 143439" src="https://github.com/user-attachments/assets/7b718bbb-dc55-4181-a733-8e082a26da85" />
 
 ### 2. AWS-Integrated Research Newsletter (Project 2)
 A functional subscription service designed to handle student data persistence
@@ -38,12 +38,11 @@ A functional subscription service designed to handle student data persistence
 
 **Step 1: Signing up for the Newsletter**
 
-<img width="1915" height="867" alt="Screenshot 2026-05-14 144225" src="https://github.com/user-attachments/assets/47ac1d3a-2726-4334-a4df-9cb757624ed3" />
+<img width="1915" height="867" alt="Screenshot 2026-05-14 144225" src="https://github.com/user-attachments/assets/82cb4ad1-6547-4eb7-a64d-0b9323f13fec" />
 
 **Step 2: Confirming that it is adding to the DynamoDB**
 
-<img width="1000" alt="DynamoDB Screenshot" src="https://github.com/user-attachments/assets/d3501713-2d2a-485c-a611-7b2e23086680" />
-
+<img width="1134" height="483" alt="Screenshot 2026-05-14 142019" src="https://github.com/user-attachments/assets/a76ea5e8-7a24-4d60-bd8e-bff95daf3b83" />
 
 ### 3. Automated Computer Vision Pipeline (Project 3)
 An intelligent image-analysis tool for campus media management.
@@ -52,9 +51,9 @@ An intelligent image-analysis tool for campus media management.
 
 **Test Case: Identity Verification**
 
-<img width="1912" height="894" alt="Screenshot 2026-05-14 144638" src="https://github.com/user-attachments/assets/dadb6465-8b05-4404-ad64-abf705aa6e61" />
+<img width="1912" height="894" alt="Screenshot 2026-05-14 144638" src="https://github.com/user-attachments/assets/e1b39786-e95a-4a6f-bc7d-b132656525a1" />
 
-<img width="1900" height="866" alt="Screenshot 2026-05-14 144654" src="https://github.com/user-attachments/assets/09e6aa97-744b-460d-8b12-7bddbe6841fb" />
+<img width="1900" height="866" alt="Screenshot 2026-05-14 144654" src="https://github.com/user-attachments/assets/68d739c1-f98f-4967-a68c-d6bdb3198774" />
 
 
 ### 4. Enterprise Observability Suite (Project 4)
@@ -64,7 +63,8 @@ A production-grade monitoring system is implemented across the Hub infrastructur
 
 **Test Case: This error was created by simulating a backend failure, and immediately receiving an error message**
 
-<img width="1000" alt="SNS Email Screenshot" src="https://github.com/user-attachments/assets/9cd78ff1-04b6-4e64-b1a4-1d7da5f51301" />
+<img width="1401" height="405" alt="Screenshot 2026-05-14 113440" src="https://github.com/user-attachments/assets/e86ec5e6-12a4-44b0-8c56-e2b2731c757e" />
+
 
 ---
 
@@ -73,7 +73,8 @@ A production-grade monitoring system is implemented across the Hub infrastructur
 ### Campus Hub UI
 The main entry point of the application, where the UI mimics the school's colors for a more immersive experience and provides navigation to the integrated cloud modules.
 
-<img width="1000" alt="Hub UI Screenshot" src="https://github.com/user-attachments/assets/6cf46746-bd92-4a59-bb09-ce23c8ead5ef" />
+<img width="1909" height="835" alt="Screenshot 2026-05-14 141839" src="https://github.com/user-attachments/assets/0926b311-9d38-4a3b-aba6-5193e69925f7" />
+
 
 ---
 
